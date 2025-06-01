@@ -24,3 +24,8 @@ Este proyecto contiene la implementación de la API de asistencia para la plataf
 
 ## Despliegue en 
 https://attendance-api-fawn.vercel.app/
+
+## INTEGRANTES
+
+Jhonnatan Vinasco Cobo. 407127
+Janier Palacios. 407382
