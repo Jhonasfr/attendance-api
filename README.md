@@ -17,9 +17,10 @@ Este proyecto contiene la implementación de la API de asistencia para la plataf
   cd attendance-api && npm install
    ```
 2. Ejecuta el servidor de desarrollo:
-   ```bash
+   ```bash"
    npm run dev
    ```
 3. Accede a [http://localhost:3000](http://localhost:3000)
 
-## Despliegue en Vercel
+## Despliegue en 
+https://attendance-api-fawn.vercel.app/
